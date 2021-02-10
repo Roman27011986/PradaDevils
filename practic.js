@@ -63,11 +63,44 @@
 
 // ********Палиндром*******
 
-function qwe(str) {
- str = str.toLowerCase()
- let str1 = str.split('').reverse().join('')
-  return str1 === str
-}
+// function qwe(str) {
+//  str = str.toLowerCase()
+//  let str1 = str.split('').reverse().join('')
+//   return str1 === str
+// }
 
 
-console.log(qwe('AbbA'))
+// console.log(qwe('AbbA'))
+
+// function pow(x, n) {
+
+  // debugger
+  // console.log(n)
+  // console.log('x',  x)
+//   if (n == 1) {
+    
+//     return x;
+//   } else {
+       
+//     // console.log('pow',  pow(x, n - 1))
+    
+//      console.log(pow(x, n - 1))
+//     return x * pow(x, n - 1);
+    
+//   }
+  
+// }
+
+// pow(2, 3)
+
+
+
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+textarea {
+  resize: none;
+}
+
+.form{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+    width: 200px;
+    height: 200px;
+display: flex;
+flex-wrap: wrap;
+
+}
+.form__btn{
+  width: 30px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+
